@@ -8,4 +8,4 @@ function trueOrFalse(params) {
     }
 }
 
-trueOrFalse(trues);
+trueOrFalse(true);
